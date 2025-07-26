@@ -1,8 +1,12 @@
- https://bucolic-sundae-53eb39.netlify.app 
 
+ 
+[🔗 Live Demo](https://bucolic-sundae-53eb39.netlify.app)
+
+![Dashboard Screenshot](./Screenshot%202025-07-26%20172732.png)
 # 🚀 GitLab Pipeline Optimization Application
 
-An AI-driven platform that empowers DevOps engineers to analyze, visualize, and optimize GitLab CI/CD pipelines. This application offers deep performance insights, actionable AI-powered suggestions, and a rich user interface designed for clarity and productivity.
+An AI-driven platform that empowers DevOps engineers to analyze, visualize, and optimize GitLab CI/CD pipelines. 
+This application offers deep performance insights, actionable AI-powered suggestions, and a rich user interface designed for clarity and productivity.
 
 ---
 
